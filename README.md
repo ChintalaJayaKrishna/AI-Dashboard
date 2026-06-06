@@ -239,7 +239,4 @@ The project serves as a practical example of dashboard development, exploratory 
 **Platform:** Google Colab
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
-
 ---
-
-⭐ If you found this project useful, consider giving it a star on GitHub!
